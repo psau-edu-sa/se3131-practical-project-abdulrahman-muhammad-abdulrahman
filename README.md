@@ -1,4 +1,4 @@
-# Formal specification for a traffic light using petri net
+# Formal specification for a traffic lights using petri net
 **The system we will specify:
 we have a crossroads traffic light that has 4 tracks, only certain traffic light can become green at the same time and the rest of traffic lights are red, the higher priority is to focus on the safety of this traffic lights.**
 
